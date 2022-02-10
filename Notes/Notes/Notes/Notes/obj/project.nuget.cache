@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UhGDAbRi30n672NTg/E0pjqSEWFNBh5oc36riQZ6X5QZGc3/C9LWh3/6fW+D7fMO2NGnzly94UVBzP6WqVRFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-Bazuzu7\\Notes\\Notes\\Notes\\Notes\\Notes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Utente\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
